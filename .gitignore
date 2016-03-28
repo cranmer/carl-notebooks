@@ -1,2 +1,8 @@
 
 .ipynb_checkpoints/*
+
+data/MC_distribution.root
+
+data/RD_distribution.root
+
+environment.yml
