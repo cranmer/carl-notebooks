@@ -8,3 +8,5 @@ data/RD_distribution.root
 environment.yml
 
 DemoReweighting.ipynb
+
+*.pdf
