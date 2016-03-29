@@ -8,6 +8,8 @@ dependencies:
   - matplotlib
   - pandas
   - jupyter
+  - root_numpy
+  - hep_ml
   - pip:
     - corner
     - git+https://github.com/scikit-learn/scikit-learn.git#egg=scikit-learn
